@@ -1,2 +1,2 @@
 # js-lab
-My experiments with JavaScript
+My experiments with JavaScript during my learning
